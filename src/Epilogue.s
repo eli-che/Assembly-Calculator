@@ -1,0 +1,2 @@
+ends:
+    call exit
